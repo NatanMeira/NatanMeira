@@ -42,6 +42,8 @@
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2d3748?&style=flat-square&logo=prisma&logoColor=white" />
 <img alt="TypeOrm" src="https://img.shields.io/badge/TypeOrm-d13324?&style=flat-square&logo=typeorm&logoColor=white" />
 <img alt="GORM" src="https://img.shields.io/badge/GORM-3f424a?&style=flat-square&logo=gorm&logoColor=white" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-6f2cf2?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
 
