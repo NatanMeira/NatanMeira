@@ -15,18 +15,33 @@
 
 ### ⌨ Linguagens / Frameworks
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-0076be?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Php" src="https://img.shields.io/badge/-Php-0076be?style=flat-square&logo=Php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0076be?style=flat-square&logo=css3&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/-Php-0076be?style=flat-square&logo=Php&logoColor=white" />
+<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E" />
+<img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img alt="Fastify" src="https://img.shields.io/badge/fastify-202020?style=flat-square&logo=fastify&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
+<img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+<img alt="GO" src="https://img.shields.io/badge/Go-00aed8?style=flat-square&logo=Go&logoColor=white" />
+<img alt="Gin" src="https://img.shields.io/badge/Gin-0f2442?style=flat-square&logo=Gin&logoColor=white" />
+<img alt="NextJs" src="https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=nextjs&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5?&style=flat-square&logo=kubernetes&logoColor=white" />
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-2d3748?&style=flat-square&logo=prisma&logoColor=white" />
+<img alt="TypeOrm" src="https://img.shields.io/badge/TypeOrm-d13324?&style=flat-square&logo=typeorm&logoColor=white" />
+<img alt="GORM" src="https://img.shields.io/badge/GORM-3f424a?&style=flat-square&logo=gorm&logoColor=white" />
 </p>
 
 
@@ -45,6 +60,10 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Apache&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-146eb4?style=flat-square&logo=aws&logoColor=white" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+  <img alt="Drone CI" src="https://img.shields.io/badge/Drone%20CI-212121?style=flat-square&logo=drone&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
 
