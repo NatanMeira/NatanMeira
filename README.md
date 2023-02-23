@@ -60,7 +60,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Apache&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-146eb4?style=flat-square&logo=aws&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-146eb4?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
   <img alt="Drone CI" src="https://img.shields.io/badge/Drone%20CI-212121?style=flat-square&logo=drone&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
