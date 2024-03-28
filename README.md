@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Github logo"src="https://raw.githubusercontent.com/NatanMeira/NatanMeira/master/github-log.png"/>
+<img alt="Github logo"src="https://raw.githubusercontent.com/NatanMeira/NatanMeira/master/github-log.png" width="40%"/>
 
 # Olá, Eu sou o Natan Meira!
 <p>
